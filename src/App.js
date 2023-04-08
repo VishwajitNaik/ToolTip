@@ -7,16 +7,12 @@ function App() {
     <div className="App">
       <div>
         <ToolTip position='top' />
-        </div>
-        <div>
         <ToolTip position='bottom' />
-        </div>
+      </div>
       <div>
         <ToolTip position='left' />
-        </div>
-        <div>
         <ToolTip position='right' />
-        </div>
+      </div>
     </div>
   );
 }
